@@ -1,6 +1,6 @@
 # Code-Battle-Registration-Mail
 
-![Mail Capture](Code%20Battle%20Registration%20Mail%20Capture.png)
+![Mail Capture](https://github.com/Hemant-Mulchandani/Code-Battle-Registration-Mail/blob/main/Code%20Battle%20Registration%20Mail%20Capture.png)
 
 # Visit to live Interact : 
 
