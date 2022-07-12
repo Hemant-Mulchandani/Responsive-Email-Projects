@@ -1,6 +1,6 @@
 # Responsive Email Projects
 
-# [🤖 GDSC IIST Core Team Onboarding Email 📬](https://hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Onboarding-Email/)
+## [🤖 GDSC IIST Core Team Onboarding Email 📬](https://hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Onboarding-Email/)
 
   📌 Visit to Live Interact : 🔗
 
