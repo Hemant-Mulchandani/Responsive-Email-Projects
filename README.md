@@ -1,4 +1,4 @@
-# [🎨 Responsive Email Projects 📬](https://github.com/Hemant-Mulchandani/Responsive-Email-Projects)
+# [🎨 Responsive Email Projects 💌](https://github.com/Hemant-Mulchandani/Responsive-Email-Projects)
 
 ## [🤖 GDSC IIST Core Team Onboarding Email 📬](https://hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Onboarding-Email/)
 
