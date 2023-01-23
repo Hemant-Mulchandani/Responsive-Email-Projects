@@ -1,6 +1,6 @@
 # [🎨 Responsive Email Projects 📧](https://github.com/Hemant-Mulchandani/Responsive-Email-Projects)
 
-Collection of some of the best email templates designed by me that were used across Google Developer Student Clubs (GDSC), GeeksforGeeks Communities & CodeChef Chapters for various national and international events promotion.
+Collection of some of the best email templates designed by me that were used for promoting various national and international events organized by Google Developer Student Clubs (GDSC), GeeksforGeeks & CodeChef communities globally.
 
 ## [🤖 GDSC IIST Core Team Onboarding Email 📬](https://hemant-mulchandani.github.io/GDSC-IIST-Core-Team-Onboarding-Email/)
 
